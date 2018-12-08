@@ -1,3 +1,3 @@
 # PythonSri
 simple python for beginners
-first commit
+This is Sunny oing my first commit
